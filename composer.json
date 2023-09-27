@@ -1,0 +1,16 @@
+{
+    "name": "learn/crud",
+    "autoload": {
+        "psr-4": {
+            "Learn\\Crud\\": "src/",
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AshrafEllaham",
+            "email": "ashrfrdaa@gmail.com"
+        }
+    ],
+    "require": {}
+}
